@@ -1,1 +1,2 @@
-# smart-cart-clustering-system
+# this is just a demo of using github
+
